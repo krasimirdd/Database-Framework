@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suppliers>
+  <supplier customerName="3M Company" is-importer="true" />
+  <supplier customerName="Agway Inc." is-importer="false" />
+  <supplier customerName="Anthem, Inc." is-importer="true" />
+  <supplier customerName="Airgas, Inc." is-importer="false" />
+  <supplier customerName="Atmel Corporation" is-importer="true" />
+  <supplier customerName="Big Lots, Inc." is-importer="true" />
+  <supplier customerName="Caterpillar Inc." is-importer="false" />
+  <supplier customerName="Casey's General Stores Inc." is-importer="true" />
+  <supplier customerName="Cintas Corp." is-importer="false" />
+  <supplier customerName="Chubb Corp" is-importer="true" />
+  <supplier customerName="Cintas Corp." is-importer="false" />
+  <supplier customerName="CNF Inc." is-importer="true" />
+  <supplier customerName="CMGI Inc." is-importer="true" />
+  <supplier customerName="The Clorox Co." is-importer="false" />
+  <supplier customerName="Danaher Corporation" is-importer="true" />
+  <supplier customerName="E.I. Du Pont de Nemours and Company" is-importer="false" />
+  <supplier customerName="E*Trade Group, Inc." is-importer="true" />
+  <supplier customerName="Emcor Group Inc." is-importer="true" />
+  <supplier customerName="GenCorp Inc." is-importer="false" />
+  <supplier customerName="IDT Corporation" is-importer="true" />
+  <supplier customerName="Level 3 Communications Inc." is-importer="false" />
+  <supplier customerName="Merck &amp; Co., Inc." is-importer="true" />
+  <supplier customerName="Nicor Inc" is-importer="false" />
+  <supplier customerName="Olin Corp." is-importer="true" />
+  <supplier customerName="Paychex Inc" is-importer="true" />
+  <supplier customerName="Saks Inc" is-importer="false" />
+  <supplier customerName="Sunoco Inc." is-importer="true" />
+  <supplier customerName="Textron Inc" is-importer="true" />
+  <supplier customerName="VF Corporation" is-importer="false" />
+  <supplier customerName="Wyeth" is-importer="true" />
+  <supplier customerName="Zale" is-importer="false" />
+</suppliers>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+    <car id="117" make="Toyota" model="Camry Hybrid" travelled-distance="9.54775807E8"/>
+    <car id="112" make="Toyota" model="Camry Hybrid" travelled-distance="9.2275807E7"/>
+    <car id="134" make="Toyota" model="Camry Hybrid" travelled-distance="2143647.0"/>
+    <car id="139" make="Toyota" model="Camry Hybrid" travelled-distance="214647.0"/>
+    <car id="136" make="Toyota" model="Camry Hybrid" travelled-distance="214647.0"/>
+    <car id="109" make="Toyota" model="Corolla" travelled-distance="9.223854775807E12"/>
+    <car id="113" make="Toyota" model="Corolla" travelled-distance="9.2235807E7"/>
+    <car id="115" make="Toyota" model="Corolla" travelled-distance="9223807.0"/>
+    <car id="122" make="Toyota" model="Corolla" travelled-distance="975807.0"/>
+    <car id="124" make="Toyota" model="Corolla" travelled-distance="21477.0"/>
+    <car id="120" make="Toyota" model="Corolla" travelled-distance="2147.0"/>
+    <car id="130" make="Toyota" model="Prius" travelled-distance="9.223354775807E12"/>
+    <car id="111" make="Toyota" model="Prius" travelled-distance="9.22337203685E11"/>
+    <car id="132" make="Toyota" model="Prius" travelled-distance="9.2233775807E10"/>
+    <car id="128" make="Toyota" model="Prius" travelled-distance="9.2233775807E10"/>
+    <car id="104" make="Toyota" model="Prius" travelled-distance="9.223372037E9"/>
+    <car id="135" make="Toyota" model="Prius" travelled-distance="9.22337807E8"/>
+    <car id="108" make="Toyota" model="Prius" travelled-distance="9.22337207E8"/>
+    <car id="137" make="Toyota" model="Prius" travelled-distance="9.22335807E8"/>
+    <car id="118" make="Toyota" model="Prius" travelled-distance="925807.0"/>
+    <car id="125" make="Toyota" model="Prius" travelled-distance="283647.0"/>
+    <car id="106" make="Toyota" model="Prius" travelled-distance="214747.0"/>
+    <car id="121" make="Toyota" model="Prius" travelled-distance="21477.0"/>
+    <car id="114" make="Toyota" model="Prius" travelled-distance="21477.0"/>
+    <car id="105" make="Toyota" model="Tacoma" travelled-distance="9.6854775807E10"/>
+    <car id="119" make="Toyota" model="Tacoma" travelled-distance="9.22337807E8"/>
+    <car id="107" make="Toyota" model="Tacoma" travelled-distance="9.4775807E7"/>
+    <car id="138" make="Toyota" model="Tacoma" travelled-distance="2.1474647E7"/>
+    <car id="116" make="Toyota" model="Tacoma" travelled-distance="9225807.0"/>
+    <car id="133" make="Toyota" model="Tacoma" travelled-distance="2147.0"/>
+    <car id="126" make="Toyota" model="Tacoma" travelled-distance="927.0"/>
+    <car id="129" make="Toyota" model="Tacoma" travelled-distance="247.0"/>
+    <car id="123" make="Toyota" model="Yaris" travelled-distance="9.4775807E7"/>
+    <car id="131" make="Toyota" model="Yaris" travelled-distance="21477.0"/>
+    <car id="110" make="Toyota" model="Yaris" travelled-distance="21477.0"/>
+    <car id="127" make="Toyota" model="Yaris" travelled-distance="9207.0"/>
+</cars>

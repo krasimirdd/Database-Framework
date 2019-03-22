@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <id>29</id>
+        <customerName>Louann Holzworth</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>28</id>
+        <customerName>Donnetta Soliz</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>17</id>
+        <customerName>Rema Revelle</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>16</id>
+        <customerName>Carri Knapik</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>27</id>
+        <customerName>Garret Capron</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>8</id>
+        <customerName>Teddy Hobby</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>10</id>
+        <customerName>Audrea Cardinal</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>11</id>
+        <customerName>Francis Mckim</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>14</id>
+        <customerName>Brett Brickley</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>15</id>
+        <customerName>Kristian Engberg</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>26</id>
+        <customerName>Hipolito Lamoreaux</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>4</id>
+        <customerName>Zada Attwood</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>25</id>
+        <customerName>Sylvie Mcelravy</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>7</id>
+        <customerName>Rico Peer</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>5</id>
+        <customerName>Hai Everton</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>6</id>
+        <customerName>Lino Subia</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>24</id>
+        <customerName>Jimmy Grossi</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>12</id>
+        <customerName>Carole Witman</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>13</id>
+        <customerName>Oren Perlman</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>3</id>
+        <customerName>Marcelle Griego</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>2</id>
+        <customerName>Natalie Poli</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>19</id>
+        <customerName>Yvonne Mccalla</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>30</id>
+        <customerName>Ann Mcenaney</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>21</id>
+        <customerName>Cinthia Lasala</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>1</id>
+        <customerName>Emmitt Benally</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>20</id>
+        <customerName>Nisha Markwell</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>23</id>
+        <customerName>Faustina Burgher</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>18</id>
+        <customerName>Taina Achenbach</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+    <customer>
+        <id>9</id>
+        <customerName>Johnette Derryberry</customerName>
+        <birth-date/>
+        <is-young-driver>true</is-young-driver>
+    </customer>
+    <customer>
+        <id>22</id>
+        <customerName>Daniele Zarate</customerName>
+        <birth-date/>
+        <is-young-driver>false</is-young-driver>
+    </customer>
+</customers>

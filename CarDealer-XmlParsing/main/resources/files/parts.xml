@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parts>
+  <part customerName="Bonnet/hood" price="1001.34" quantity="10" />
+  <part customerName="Unexposed bumper" price="1003.34" quantity="10" />
+  <part customerName="Exposed bumper" price="1400.34" quantity="10" />
+  <part customerName="Cowl screen" price="1500.34" quantity="10" />
+  <part customerName="Decklid" price="1060.34" quantity="11" />
+  <part customerName="Fascia" price="100.34" quantity="10" />
+  <part customerName="Fender" price="10.34" quantity="10" />
+  <part customerName="Front clip" price="100" quantity="10" />
+  <part customerName="Front fascia" price="11.99" quantity="10" />
+  <part customerName="Grille" price="144.99" quantity="10" />
+  <part customerName="Pillar" price="100.99" quantity="10" />
+  <part customerName="Quarter panel" price="100.99" quantity="200" />
+  <part customerName="Radiator " price="100.99" quantity="10" />
+  <part customerName="Rocker" price="100.99" quantity="10" />
+  <part customerName="Roof rack" price="100.99" quantity="10" />
+  <part customerName="Spoiler" price="3000.99" quantity="10" />
+  <part customerName="Rims" price="4020.99" quantity="10" />
+  <part customerName="Trim package" price="1900.99" quantity="10" />
+  <part customerName="Trunk/boot/hatch" price="2200.99" quantity="300" />
+  <part customerName="Valance" price="1002.99" quantity="10" />
+  <part customerName="Welded assembly" price="1020.99" quantity="10" />
+  <part customerName="Front Right Outer door handle" price="999.99" quantity="345" />
+  <part customerName="Front Left Side Outer door handle" price="999.99" quantity="10" />
+  <part customerName="Rear Right Side Outer door handle" price="80.99" quantity="10" />
+  <part customerName="Rear Left Side Outer door handle" price="120.99" quantity="10" />
+  <part customerName="Front Right Side Inner door handle" price="100.99" quantity="10" />
+  <part customerName="Front Left Side Inner door handle" price="77.99" quantity="1032" />
+  <part customerName="Rear Right Side Inner door handle" price="79.99" quantity="10" />
+  <part customerName="Rear Left Side Inner door handle" price="93.99" quantity="234" />
+  <part customerName="Back Door Outer Door Handle" price="43.99" quantity="10" />
+  <part customerName="Front Right Side Window motor" price="44.99" quantity="10" />
+  <part customerName="Front Left Side Window motor" price="56.99" quantity="10" />
+  <part customerName="Rear Right Side Window motor" price="22.99" quantity="10" />
+  <part customerName="Rear Left Side Window motor" price="144.99" quantity="10" />
+  <part customerName="Door control module" price="421.99" quantity="10" />
+  <part customerName="Door seal" price="444.99" quantity="10" />
+  <part customerName="Door water-shield" price="123.99" quantity="10" />
+  <part customerName="Hinge" price="11.99" quantity="10" />
+  <part customerName="Door latch" price="2331.99" quantity="10" />
+  <part customerName="Door lock and power door locks" price="120.99" quantity="10" />
+  <part customerName="Center-locking" price="313.99" quantity="10" />
+  <part customerName="Fuel tank" price="100.98" quantity="10" />
+  <part customerName="Front Right Side Door Glass" price="100.91" quantity="10" />
+  <part customerName="Front Left Side Door Glass" price="100.92" quantity="10" />
+  <part customerName="Rear Right Side Door Glass" price="100.9" quantity="10" />
+  <part customerName="Rear Left Side Door Glass" price="100.66" quantity="10" />
+  <part customerName="Rear Right Quarter Glass" price="100.66" quantity="10" />
+  <part customerName="Rear Left Quarter Glass" price="100.55" quantity="10" />
+  <part customerName="Sunroof" price="103.43" quantity="10" />
+  <part customerName="Sunroof Rail" price="100.25" quantity="10" />
+  <part customerName="Sunroof Glass" price="205.24" quantity="10" />
+  <part customerName="Window motor" price="123.49" quantity="10" />
+  <part customerName="Window regulator" price="100.99" quantity="10" />
+  <part customerName="Windshield" price="100.99" quantity="10" />
+  <part customerName="Window seal" price="100.99" quantity="10" />
+  <part customerName="Engine" price="100.99" quantity="10" />
+  <part customerName="Camshaft" price="100.98" quantity="10" />
+  <part customerName="Crank case" price="2.93" quantity="10" />
+  <part customerName="Crank pulley" price="2.8" quantity="10" />
+  <part customerName="Crankshaft" price="4.99" quantity="10" />
+  <part customerName="Cylinder head" price="6.99" quantity="10" />
+  <part customerName="Distributor" price="7.99" quantity="10" />
+  <part customerName="Distributor cap" price="9.99" quantity="10" />
+  <part customerName="Drive belt" price="3.99" quantity="10" />
+  <part customerName="Engine block" price="40.99" quantity="10" />
+  <part customerName="Engine cradle" price="39.99" quantity="10" />
+  <part customerName="Engine shake damper and vibration absorber" price="100.99" quantity="10" />
+  <part customerName="Engine valve" price="49.99" quantity="10" />
+  <part customerName="Fan belt" price="10.99" quantity="10" />
+  <part customerName="Gudgeon pin" price="44.99" quantity="10" />
+  <part customerName="Harmonic balancer" price="67.99" quantity="10" />
+  <part customerName="Heater" price="82.99" quantity="10" />
+  <part customerName="Piston" price="94.99" quantity="10" />
+  <part customerName="Poppet valve" price="88.99" quantity="10" />
+  <part customerName="Rocker arm" price="98.99" quantity="10" />
+  <part customerName="Rocker cover" price="10.99" quantity="10" />
+  <part customerName="Starter motor" price="0.99" quantity="10" />
+  <part customerName="Turbocharger" price="0.4" quantity="10" />
+  <part customerName="Tappet" price="300.29" quantity="10" />
+  <part customerName="Timing tape" price="40.9" quantity="10" />
+  <part customerName="Valve cover" price="130.99" quantity="10" />
+  <part customerName="Valve housing" price="400.99" quantity="10" />
+  <part customerName="Valve spring" price="104.99" quantity="10" />
+  <part customerName="Valve stem seal" price="120.99" quantity="10" />
+  <part customerName="Water pump pulley" price="150.99" quantity="10" />
+  <part customerName="Air blower" price="140.99" quantity="10" />
+  <part customerName="Coolant hose " price="150.99" quantity="10" />
+  <part customerName="Cooling fan" price="120.99" quantity="10" />
+  <part customerName="Fan blade" price="150.99" quantity="10" />
+  <part customerName="Fan clutch" price="120.99" quantity="10" />
+  <part customerName="Radiator bolt" price="160.99" quantity="10" />
+  <part customerName="Radiator (fan) shroud" price="300.99" quantity="10" />
+  <part customerName="Radiator gasket" price="140.99" quantity="10" />
+  <part customerName="Radiator pressure cap" price="600.99" quantity="10" />
+  <part customerName="Overflow tank" price="1200.99" quantity="10" />
+  <part customerName="Thermostat" price="1050.99" quantity="10" />
+  <part customerName="Water neck" price="900.99" quantity="10" />
+  <part customerName="Water neck o-ring" price="43.99" quantity="10" />
+  <part customerName="Water pipe" price="44.94" quantity="10" />
+  <part customerName="Water pump" price="44.93" quantity="10" />
+  <part customerName="Water pump gasket" price="120.29" quantity="10" />
+  <part customerName="Water tank" price="100.99" quantity="10" />
+  <part customerName="Oil filter" price="200.99" quantity="10" />
+  <part customerName="Oil gasket" price="130.99" quantity="10" />
+  <part customerName="Oil pan" price="140.99" quantity="10" />
+  <part customerName="Oil pipe" price="100.29" quantity="10" />
+  <part customerName="Oil pump" price="100.19" quantity="10" />
+  <part customerName="Oil strainer" price="45.29" quantity="10" />
+  <part customerName="Catalytic converter" price="540.99" quantity="10" />
+  <part customerName="Exhaust clamp and bracket" price="140.99" quantity="10" />
+  <part customerName="Exhaust flange gasket" price="130.99" quantity="10" />
+  <part customerName="Resonator" price="106.99" quantity="10" />
+  <part customerName="Muffler" price="106.9" quantity="10" />
+  <part customerName="Exhaust pipe" price="130.99" quantity="10" />
+  <part customerName="Heat shield" price="10.99" quantity="10" />
+  <part customerName="Air filter" price="200.99" quantity="10" />
+  <part customerName="Choke cable" price="130.99" quantity="10" />
+  <part customerName="Fuel cooler" price="140.99" quantity="10" />
+  <part customerName="Fuel filter" price="162.99" quantity="10" />
+  <part customerName="Fuel rail" price="107.99" quantity="10" />
+  <part customerName="Fuel pressure regulator" price="100.99" quantity="10" />
+  <part customerName="Steering arm" price="104.99" quantity="10" />
+  <part customerName="Steering box" price="103.99" quantity="10" />
+  <part customerName="Clutch assembly" price="120.99" quantity="10" />
+  <part customerName="Master cylinder" price="130.99" quantity="10" />
+  <part customerName="Speed reducer" price="14.99" quantity="10" />
+  <part customerName="Transmission gear" price="15.99" quantity="10" />
+  <part customerName="Transmission pan" price="106.99" quantity="10" />
+  <part customerName="Differential seal" price="109.99" quantity="10" />
+  <part customerName="Differential clutch" price="120.99" quantity="10" />
+  <part customerName="Clutch shoe" price="10.49" quantity="10" />
+</parts>
